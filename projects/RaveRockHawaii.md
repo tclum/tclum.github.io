@@ -1,6 +1,3 @@
-
-
-
 ---
 layout: project
 type: project
