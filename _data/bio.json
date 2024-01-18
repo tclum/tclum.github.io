@@ -1,35 +1,35 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Timothy Lum",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/tclum.png",
+    "email": "tclum@hawaii.edu",
+    "phone": "808-386-2734",
+    "website": "https://tclum.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the general track at the University of Hawaii. I expect to graduate in Fall, 2025.",
+    "location": { "address": "Nuuanu", "postalCode": "96817", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "tclum", "url": "http://github.com/tclum" },
+      { "network": "linkedin", "username": "timlum", "url": "http://linkedin.com/in/timlumtimlum" },
+      { "network": "twitter", "username": "timlumtimlum", "url": "http://facebook.com/timlumtimlum" },
+      { "network": "instagram", "username": "timewithoute", "url": "http://instagram.com/timewithoute" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Photography" },
+    { "name": "Videography" },
+    { "name": "Fitness" },
+    { "name": "Cooking" },
+    { "name": "Computer Programming" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "HTML", "CSS", "MongoDB" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", ]
     }
   ],
   "education": [
