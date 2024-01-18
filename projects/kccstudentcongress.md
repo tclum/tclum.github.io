@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: img/studentcongress.jpg
-title: "StudentCongress"
-date: 2021
+title: " KCC Student Congress"
+date: 2021-02-01
 published: true
 labels:
   - Kapi'olani Community College
