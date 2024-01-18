@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/digimedia_logo.jpg
-title: "DigitalMedia"
+title: "Digital Media"
 date: 2010-01-01
 published: true
 labels:
