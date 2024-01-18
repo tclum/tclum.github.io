@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/makanaranchhouse.jpg
-title: "MakanaRanchHouse"
+title: "Makana Ranch House"
 date: 2019
 published: true
 labels:
