@@ -35,79 +35,90 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Fall, 2025)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "startDate": "2020-09-01",
+      "endDate": "Fall 2025",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Chef Chais",
+      "position": "Server",
+      "website": "https://chefchai.com/",
+      "startDate": "2023-09-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Serving you Thai fusion cuisine in Kaka'ako.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "High end dining with beautiful ambiance",
+        "Assisting to create a memorable experience"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Adapt Forward",
+      "position": "Computer Engineer Intern",
+      "website": "https://www.adaptforward.com/",
+      "startDate": "2023-08-27",
+      "endDate": "2023-12-20",
+      "summary": "Cyber Security internship with Adapt Forward for the NIWC.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Learning about high level cyber security policies to ensure proper data security",
+        "Research paper and poster based on Polymorphic Malware and AI in Cyber Security"
+      ]
+    },
+      {
+      "company": "University of Hawaii Kapi'olani Community College",
+      "position": "Student Congress Student Employee",
+      "website": "https://kapionews.com/index.php/student-congress/",
+      "startDate": "2021-02-01",
+      "endDate": "2023-5-20",
+      "summary": "Vice President, Public Relations Manager, and Treasurer.",
+      "highlights": [
+        "Planning, preparing, and execution of yearly initiatives to support the student body",
+        ""
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Kapi'olani Community College",
+      "website": "https://kapiolanicc.smugmug.com/Commencement/2023-Fall-Commencement/Photos-by-Tim-Lum",
+      "position": "Photographer",
+      "startDate": "2023-12-20",
+      "endDate": "2023-12-20",
+      "summary": "Volunteer photographer",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Catch moments through photographs",
+        "Assist staff with facilitating students"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "Kapi'olani Community College",
+      "website": "https://kapiolanicc.smugmug.com/Commencement/Commencement2022/2022-Photos-by-Timothy-Lum",
+      "position": "Photographer",
+      "startDate": "2022",
+      "endDate": "2022",
+      "summary": "Volunteer photographer",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Catch moments through photographs",
+        "Assist staff with facilitating students"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     }
   ],
   "references": [
