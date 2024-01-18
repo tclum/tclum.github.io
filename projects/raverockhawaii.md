@@ -22,9 +22,10 @@ Not only did I work on the developmental part of the company, contracting and ma
 <hr>
 
 <pre>
-https://vimeo.com/theraverock
-https://www.facebook.com/alyandfila/
-https://www.facebook.com/weareaudiophile/
+  <a href=https://vimeo.com/theraverock>Vimeo</a>
+  <a href= https://www.facebook.com/alyandfila/>Artist: Aly & Fila </a>
+  <a href=https://www.facebook.com/weareaudiophile/>Audiophile Entertainment</a>
+
 </pre>
 
 <hr>
