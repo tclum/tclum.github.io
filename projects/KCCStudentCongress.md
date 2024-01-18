@@ -1,10 +1,7 @@
-
-
-
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/studentcongress.jpg
 title: "StudentCongress"
 date: 2021
 published: true
@@ -18,7 +15,7 @@ summary: "My time in Student Congress and Kapi'olani Community College."
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
+  <img width="200px" src="/studentcongress_photo" class="img-thumbnail" >
   <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
   <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
