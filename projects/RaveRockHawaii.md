@@ -6,7 +6,7 @@ layout: project
 type: project
 image: img/cotton/cotton-square.png
 title: "RaveRockHawaii"
-date: 2013
+date: 2013-01-01
 published: true
 labels:
   - Events
