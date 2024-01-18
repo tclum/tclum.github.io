@@ -10,7 +10,7 @@ labels:
   - Photography
   - Videography
   - Digital Media Editing
-  - 
+
 summary: "Specks of my photography and videography journey."
 ---
 
