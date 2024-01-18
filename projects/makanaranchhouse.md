@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/makanaranchhouse.jpg
 title: "Makana Ranch House"
-date: 2019
+date: 2018-10-01
 published: true
 labels:
   - Restaurant
