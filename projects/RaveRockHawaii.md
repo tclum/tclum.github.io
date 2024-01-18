@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/rr.jpg
-title: "RaveRockHawaii"
+title: "Rave Rock Hawaii"
 date: 2013-01-01
 published: true
 labels:
