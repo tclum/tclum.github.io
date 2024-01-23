@@ -19,8 +19,8 @@ I purchased my first camera, albeit disposable, when I was 11. I still have the 
 
 I also have experience with videography. Of which, my most exceptional accomplishments came from obtaining a contract deal worth $10,000 to capture the essence of a local union for their centennial anniversary. To make this a little more relevant, I often volunteer at Kapi'olani CC with their commencement ceremony and at least one of my photos is featured on the main page of the newsletter mailer.
 
-https://www.modelmayhem.com/2928055
-https://vimeo.com/theraverock
-https://kapiolanicc.smugmug.com/Commencement/2023-Fall-Commencement
+<a href="https://www.modelmayhem.com/2928055">Model Mayhem</a><br>
+<a href="https://vimeo.com/theraverock">Vimeo: Rave Rock Hawaii</a><br>
+<a href="https://kapiolanicc.smugmug.com/Commencement/2023-Fall-Commencement">Kapio'olani Community College</a><br>
 
  
