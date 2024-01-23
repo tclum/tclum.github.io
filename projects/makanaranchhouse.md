@@ -19,4 +19,5 @@ From 2018-19, I managed a pop-up Hawaiian fusion Tex-Mex restaurant called Makan
 I was able to use my extensive experience in the restaurant industry to manage back-end and front of the house operations for special occasions at the restaurant including weddings, birthdays, and wine-tastings, among other events. I often handled inventory for catering events, managed servers, and cooks. Of the catering events, the most unique were held at Bishop Museum and the Hawaii State Capitol, where I met Governor Ige.
 
  
-Source: <a href="https://drive.google.com/drive/folders/19Dol958NKAfMsZAiIbN07Ho89fE0_61X?usp=sharing">Google Drive: Makana Ranch House</a>
+Source: <a href="https://drive.google.com/drive/folders/19Dol958NKAfMsZAiIbN07Ho89fE0_61X?usp=sharing">Google Drive: Makana Ranch House</a><br>
+Source: <a href="https://www.yelp.com/biz/makana-ranch-house-honolulu-2">Yelp: Makana Ranch House</a>
