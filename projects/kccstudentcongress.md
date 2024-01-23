@@ -16,8 +16,8 @@ summary: "My time in Student Congress and Kapi'olani Community College."
 
 <div class="text-center p-4">
   <img width="200px" src="../img/studentcongress_photo.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/studentcongress_photo2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/studentcongress_photo3.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/studentCongress2.png" class="img-thumbnail" >
+  <img width="200px" src="../img/studentCongress3.jpg" class="img-thumbnail" >
 </div>
 
 While attending Kapi'olani Community College, from 2020-2023, I was elected in to Student Congress as the Public Relations Manager in 2021, Vice President 2021-22, and Treasurer in 2022-23. I was able to put to use and further develop my professional leadership skills in event planning, team leadership, project management, and contracting. Of our most notable initiatives, we were able to provide new laptops and portable wi-fi to the library, a monthly newsletter containing upcoming events, resources, and opportunities available to students, assist with the Pohukaina Food Pantry(as food insecurity was consistently in the top stresses to students), and coordinate social events for students during the pandemic. 
