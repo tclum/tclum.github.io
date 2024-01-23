@@ -25,7 +25,7 @@ From 2018-19, I managed a pop-up Hawaiian fusion Tex-Mex restaurant, Makana Ranc
 <div class="text-center p-4">
   <img width="200px" src="../img/mrhEventhori.JPG" class="img-thumbnail" >
   <img width="200px" src="../img/mrhFood1.JPG" class="img-thumbnail" >
-  <img width="200px" src="img/mrhFood2.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/mrhFood2.jpg" class="img-thumbnail" >
   <img width="200px" src="../img/mrhFood3.JPG" class="img-thumbnail" >
   <br>
 </div>  
