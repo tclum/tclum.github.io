@@ -39,7 +39,9 @@
       "studyType": "B.S.",
       "startDate": "2020-09-01",
       "endDate": "Fall 2025",
-      "courses": [
+      "courses": [ 
+        "ICS 311 Algorithms",
+        "ICS 314 Software Engineering I"
       ]
     }
   ],
@@ -77,7 +79,6 @@
       "summary": "Vice President, Public Relations Manager, and Treasurer.",
       "highlights": [
         "Planning, preparing, and execution of yearly initiatives to support the student body",
-        ""
       ]
     }
   ],
@@ -105,20 +106,6 @@
         "Catch moments through photographs",
         "Assist staff with facilitating students"
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    },
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
     }
   ],
   "references": [
