@@ -19,11 +19,11 @@ summary: "A pop-up Hawaiian fusion Tex-Mex restaurant."
   <img width="200px" src="../mrhVenue1.jpeg" class="img-thumbnail" >
     <img width="200px" src="../img/mrhVenue2.jpg" class="img-thumbnail" >
   <br>
+    <img width="200px" src="../img/mrhEventhori.JPG" class="img-thumbnail" >
   <img width="200px" src="../img/mrhFood1.JPG" class="img-thumbnail" >
     <img width="200px" src="../img/mrhFood2.JPG" class="img-thumbnail" >
   <img width="200px" src="../img/mrhFood3.JPG" class="img-thumbnail" >
-    <img width="200px" src="../img/mrhEventVert.JPG" class="img-thumbnail" >
-  <img width="200px" src="../img/mrhIge.jpg" class="img-thumbnail" >
+
 </div>
 <br>
 From 2018-19, I managed a pop-up Hawaiian fusion Tex-Mex restaurant, Makana Ranch House, located on Waialae Avenue. The restaurant mainly focused on special events, catering, and retail sales. Chef Ignacio was a hunter as well with the mission to make venison a mainstream meat source in Hawai'i by utilizing the over population of invasive Axis deer on the outer islands. 
@@ -33,3 +33,4 @@ I was able to use my extensive experience in the restaurant industry to manage b
  
 <a href="https://drive.google.com/drive/folders/19Dol958NKAfMsZAiIbN07Ho89fE0_61X?usp=sharing">Google Drive: Makana Ranch House</a><br>
 <a href="https://www.yelp.com/biz/makana-ranch-house-honolulu-2">Yelp: Makana Ranch House</a>
+
