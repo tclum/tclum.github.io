@@ -16,12 +16,12 @@ summary: "A pop-up Hawaiian fusion Tex-Mex restaurant."
 <div class="text-center p-4">
   <img width="200px" src="../img/makanaranchhouse_photo.jpeg" class="img-thumbnail" >
   <img width="200px" src="../img/mrhVenue.jpg" class="img-thumbnail" >
-  <img width="200px" src="../mrhVenue1.jpeg" class="img-thumbnail" >
-    <img width="200px" src="../img/mrhVenue2.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/mrhVenue1.jpeg" class="img-thumbnail" >
+  <img width="200px" src="../img/mrhVenue2.jpg" class="img-thumbnail" >
   <br>
-    <img width="200px" src="../img/mrhEventhori.JPG" class="img-thumbnail" >
+  <img width="200px" src="../img/mrhEventhori.JPG" class="img-thumbnail" >
   <img width="200px" src="../img/mrhFood1.JPG" class="img-thumbnail" >
-    <img width="200px" src="../img/mrhFood2.JPG" class="img-thumbnail" >
+  <img width="200px" src="../img/mrhFood2.JPG" class="img-thumbnail" >
   <img width="200px" src="../img/mrhFood3.JPG" class="img-thumbnail" >
 
 </div>
