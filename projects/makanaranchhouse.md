@@ -13,7 +13,18 @@ labels:
 summary: "A pop-up Hawaiian fusion Tex-Mex restaurant."
 ---
 
-<img class="img-fluid" src="../img/makanaranchhouse_photo.jpeg">
+<div class="text-center p-4">
+  <img width="200px" src="../img/makanaranchhouse_photo.jpeg" class="img-thumbnail" >
+  <img width="200px" src="../img/mrhVenue.jpg" class="img-thumbnail" >
+  <img width="200px" src="../mrhVenue1.jpeg" class="img-thumbnail" >
+    <img width="200px" src="../img/mrhVenue2.jpg" class="img-thumbnail" >
+  <br>
+  <img width="200px" src="../img/mrhFood1.JPG" class="img-thumbnail" >
+    <img width="200px" src="../img/mrhFood2.JPG" class="img-thumbnail" >
+  <img width="200px" src="../img/mrhFood3.JPG" class="img-thumbnail" >
+    <img width="200px" src="../img/mrhEventVert.JPG" class="img-thumbnail" >
+  <img width="200px" src="../img/mrhIge.jpg" class="img-thumbnail" >
+</div>
 <br>
 From 2018-19, I managed a pop-up Hawaiian fusion Tex-Mex restaurant, Makana Ranch House, located on Waialae Avenue. The restaurant mainly focused on special events, catering, and retail sales. Chef Ignacio was a hunter as well with the mission to make venison a mainstream meat source in Hawai'i by utilizing the over population of invasive Axis deer on the outer islands. 
 
