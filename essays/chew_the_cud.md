@@ -22,6 +22,6 @@ In Eric Raymond's eloquently detailed article, "How To Ask Questions The Smart W
 Within the day, Hai Hoang asked, "I have 4 tables but when I link 4 tables in 1 index file, when creating the table, none of the tables are linked together, please help me", followed up by poorly formatted links to his code along with the words, "I hope you will help me". In contrast to Mark's question, Hai's grammar is improper, he provides no specificity or personal insight on the efforts he has made resolve his problem, ultimately giving little reason for anyone to want to help him. This is near extreme example of a not-smart question. With some effort and possibly a few english lessons, a smart question is not too far away.
 <br>
 <br>
-[Simple, but meaningful question](https://stackoverflow.com/questions/1335851/what-does-use-strict-do-in-javascript-and-what-is-the-reasoning-behind-it)
+[Simple and meaningful question](https://stackoverflow.com/questions/1335851/what-does-use-strict-do-in-javascript-and-what-is-the-reasoning-behind-it)
 <br>
 [Silly question](https://stackoverflow.com/questions/77878439/i-have-4-tables-but-when-i-link-4-tables-in-1-index-file-when-creating-the-tabl)
