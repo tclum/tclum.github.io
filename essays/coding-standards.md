@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Magic in the Details "
-date: 2024-01-18
+date: 2024-02-08
 published: true
 labels:
   - Programming
