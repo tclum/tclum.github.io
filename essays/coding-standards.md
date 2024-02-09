@@ -16,7 +16,8 @@ I've spent most of my working life in restaurants. The first restaurant I've eve
 <div class="text-center p-4">
   <br>
   <img width="200px" src="../img/nobuSushi.jpeg" class="img-thumbnail" >
-  *In Japanese cuisine, there are standards as to how a dish should be presented, not just created. Every aspect is considered in order to create pleasant 'art'.
+  <br>
+    *In Japanese cuisine, there are standards as to how a dish should be presented, not just created. Every aspect is considered in order to create pleasant 'art'.
   <br>
 </div>
 
