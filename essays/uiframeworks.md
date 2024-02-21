@@ -34,7 +34,7 @@ Are you familiar with the Winchester Mansion in San Jose? It's a incredibly uniq
 
 <div class="text-center p-4">
   <br>
-  <img width="200px" src="../img/frameork4.jpg" class="img-thumbnail">
-  <img width="200px" src="../img/framework5.jpeg" class="img-thumbnail">
+  <img width="200px" src="../img/framework4.jpg" class="img-thumbnail">
+  <img width="200px" src="../img/framework5.png" class="img-thumbnail">
   <br>
 </div>
