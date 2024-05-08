@@ -11,8 +11,13 @@ labels:
   - prompt engineering
   - ethical programming
 ---
-
-
+<div class="text-center p-4">
+  <br>
+  <img width="200px" src="../img/ai1.jpg" class="img-thumbnail">
+    <img width="200px" src="../img/ai3.jpg" class="img-thumbnail">
+  <br>
+  <br>
+</div>
 ### I. Introduction
 Artificial Intelligence, in 2024, has become a useful tool in seeking information, data formulation, and autonomous redundant tasking. In education, it can be utilized to help a student with ideas, find solutions, structure an essay, and grammar check that essay, among many other things. In Software Engineering, AI is capable of writing code for simple applications, checking code, or giving possible solutions to an issue with an application. Though, due to the progressive complexity of an application as files increase and depending on design patterns, AI is limited by it’s data training model and the user prompts. The AI program that I use is Openai’s ChatGPT and the only times I have used any other software was when recommended to during class in ICS 314.
 
@@ -108,14 +113,3 @@ I asked ChatGPT again because I don’t feel I have enough knowledge on AI educa
 Regarding the use of AI in ICS 314, I found it to be highly beneficial to think about, and even if I didn’t use it as much as I could have, I gained more experience through exposure to what is possible. I was able to learn about the practical uses of AI in a software application and a bit more about prompt engineering. I think it is quite incredible that we are in this time period, able to see a fraction of the birth and development of artificial intelligence. 
 
 I believe adding a few assignments specifically requiring the use of AI would be interesting. As we become more reliant on AI, it would give future students good insight as to how to better functionally use certain programs if they needed to complete well thought out assignments with AI that display the strengths and weaknesses of AI.
-
-
-
-
-<div class="text-center p-4">
-  <br>
-  <img width="200px" src="../img/framework1.jpg" class="img-thumbnail">
-    <img width="200px" src="../img/framework2.jpg" class="img-thumbnail">
-  <br>
-  <br>
-</div>
