@@ -14,8 +14,6 @@ labels:
 <div class="text-center p-4">
   <br>
   <img width="200px" src="../img/ai1.jpg" class="img-thumbnail">
-    <img width="200px" src="../img/ai3.jpeg" class="img-thumbnail">
-  <br>
   <br>
 </div>
 ### I. Introduction
@@ -88,7 +86,11 @@ In summary, while traditional teaching methods have been foundational in softwar
 I used ChatGPT for this question because I felt that I lacked a good understanding on what AI-Enhanced teaching entails. From my perspective, AI-Enhanced teaching is practically the same as with traditional teaching methods except like having a TA, that is well versed in nearly everything and offers multiple perspectives, at your disposal. Apparently, AI-Enhanced teaching is a fantastic approach. 
 
 ### VII. Future Considerations:
-
+<div class="text-center p-4">
+  <br>
+    <img width="200px" src="../img/ai3.jpeg" class="img-thumbnail">
+  <br>
+</div>
 “The future role of AI in software engineering education holds significant promise for transforming the learning experience, enhancing student outcomes, and advancing the field of software engineering. Here are some thoughts on potential advancements, challenges, and areas for improvement:
 Advancements:
 1. Personalized Learning:
