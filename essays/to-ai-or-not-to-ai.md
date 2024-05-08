@@ -14,7 +14,7 @@ labels:
 <div class="text-center p-4">
   <br>
   <img width="200px" src="../img/ai1.jpg" class="img-thumbnail">
-    <img width="200px" src="../img/ai3.jpg" class="img-thumbnail">
+    <img width="200px" src="../img/ai3.jpeg" class="img-thumbnail">
   <br>
   <br>
 </div>
