@@ -1,3 +1,4 @@
+# rev v2026-08-01a : setup-ruby unpinned from v1.161.0 to @v1 (v1.161.0 predates ubuntu-24.04 runners)
 # This workflow uses actions that are not certified by GitHub.
 # They are provided by a third-party and are governed by
 # separate terms of service, privacy policy, and support
@@ -34,9 +35,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Setup Ruby
-        uses: ruby/setup-ruby@8575951200e472d5f2d95c625da0c7bec8217c42 # v1.161.0
+        uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.1' # Not needed with a .ruby-version file
+          ruby-version: '3.1' # Keep at 3.1: the locked liquid 4.0.3 crashes on Ruby 3.2+ (tainted? removed)
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
           cache-version: 0 # Increment this number if you need to re-download cached gems
       - name: Setup Pages
