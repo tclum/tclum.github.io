@@ -1,61 +1,110 @@
 {
+  "meta": {
+    "version": "v2026-08-01a",
+    "lastModified": "2026-08-01"
+  },
   "basics": {
     "name": "Timothy Lum",
-    "label": "Student",
+    "label": "AI Engineer | Founder, DDO Tech Solutions",
     "picture": "https://github.com/tclum.png",
-    "email": "tclum@hawaii.edu",
-    "phone": "808-386-2734",
+    "email": "timothyclum@gmail.com",
     "website": "https://tclum.github.io",
-    "summary": "B.S. in Computer Science at the University of Hawaii 2026",
-    "location": { "address": "Nuuanu", "postalCode": "96817", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "Software engineer who ships production AI-powered SaaS end to end: multi-tenant platforms on Next.js, TypeScript, and Postgres, plus automation systems that connect LLMs to CRM, marketing, and internal workflows.",
+    "location": { "city": "Honolulu", "countryCode": "US", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "tclum", "url": "http://github.com/tclum" },
-      { "network": "linkedin", "username": "timlum", "url": "http://linkedin.com/in/timlumtimlum" },
-      { "network": "twitter", "username": "timlumtimlum", "url": "http://facebook.com/timlumtimlum" },
-      { "network": "instagram", "username": "timewithoute", "url": "http://instagram.com/timewithoute" }
+      { "network": "github", "username": "tclum", "url": "https://github.com/tclum" },
+      { "network": "linkedin", "username": "timlumtimlum", "url": "https://linkedin.com/in/timlumtimlum" }
     ]
   },
   "interests": [
     { "name": "Photography" },
     { "name": "Videography" },
     { "name": "Fitness" },
-    { "name": "Cooking" },
-    { "name": "Computer Programming" }
+    { "name": "Cooking" }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "HTML", "CSS", "MongoDB" ]
+      "name": "Languages",
+      "keywords": [ "TypeScript", "JavaScript", "Python", "SQL", "Java", "C/C++" ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub"]
+      "name": "Frameworks",
+      "keywords": [ "Next.js 15 (App Router)", "React", "Node.js", "Tauri v2" ]
+    },
+    {
+      "name": "Data",
+      "keywords": [ "PostgreSQL", "Supabase", "Drizzle ORM", "pgvector", "MongoDB", "SQLite" ]
+    },
+    {
+      "name": "AI & Automation",
+      "keywords": [ "LLM API integration (Claude, OpenAI)", "RAG (embeddings, pgvector, vector search)", "agent and tool-use pipelines", "LLM eval and smoke-test harnesses", "LiveKit realtime voice agents", "n8n", "webhook and event-driven pipelines" ]
+    },
+    {
+      "name": "Infrastructure",
+      "keywords": [ "Vercel", "Railway", "Turborepo/pnpm monorepos", "GitHub Actions", "Vitest" ]
+    },
+    {
+      "name": "Practices",
+      "keywords": [ "Multi-tenant architecture", "row-level security", "REST APIs", "schema migration discipline", "CI smoke testing" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2025)",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Computer Science, Minor in Business (expected Aug 2026)",
       "studyType": "B.S.",
       "startDate": "2020-09-01",
-      "endDate": "Fall 2025",
-      "courses": [ 
-        "ICS 311 Algorithms",
-        "ICS 314 Software Engineering I"
-      ]
+      "endDate": "2026-08-31"
     }
   ],
   "work": [
     {
-      "company": "Chef Chais",
-      "position": "Server",
-      "website": "https://chefchai.com/",
-      "startDate": "2023-09-01",
+      "company": "ProService Hawaii",
+      "position": "AI Engineer (Contract)",
+      "website": "https://www.proservice.com/",
+      "startDate": "2026-06-01",
       "endDate": "Present",
-      "summary": "Serving you Thai fusion cuisine in Kaka'ako.",
+      "summary": "AI systems for pricing review at Hawaii's largest HR/PEO provider.",
       "highlights": [
-        "High end dining with beautiful ambiance",
-        "Assisting to create a memorable experience"
+        "Built a deterministic and LLM-enhanced pricing-review system that runs a multi-domain analysis spanning profitability, billing integrity, labor burden, and risk exposure across a client book of thousands of businesses.",
+        "Modeled the annualized dollar impact of extending the system book-wide, stating sampling method and capture assumptions explicitly so the estimate could be challenged on its terms.",
+        "Partner with non-technical pricing staff to convert undocumented business rules into enforced logic in the pricing database."
+      ]
+    },
+    {
+      "company": "DDO Tech Solutions",
+      "position": "Founder and Lead Engineer",
+      "website": "https://forpono.com",
+      "startDate": "2026-01-01",
+      "endDate": "Present",
+      "summary": "Software company delivering multi-tenant web platforms for small-business clients.",
+      "highlights": [
+        "Founded and operating the company, owning architecture, implementation, deployment, and client relationships."
+      ]
+    },
+    {
+      "company": "Bayze / AinaQuest (Leap Start Program)",
+      "position": "Software and Product Development",
+      "website": "https://ainaquest.com",
+      "startDate": "2024-06-01",
+      "endDate": "Present",
+      "summary": "Mobile and web development for consumer-facing products.",
+      "highlights": [
+        "Develop mobile and web application features in modern JavaScript frameworks for consumer-facing products.",
+        "Integrate third-party and internal APIs, and support launch planning, technical documentation, and roadmap execution.",
+        "Manage digitization of a physical card game through manufacturing and playtesting."
+      ]
+    },
+    {
+      "company": "Pacific Asian Center for Entrepreneurship, UH Manoa",
+      "position": "Maker Space & AI Innovation Director",
+      "website": "https://pace.shidler.hawaii.edu",
+      "startDate": "2024-06-01",
+      "endDate": "Present",
+      "summary": "Run daily operations of a university prototyping facility supporting student and faculty ventures.",
+      "highlights": [
+        "Train and support users across 3D printing, laser cutting, embroidery, sublimation, and heat press, and advise student entrepreneurs on technical feasibility and product development.",
+        "Designed and teach an AI engineering curriculum for a cohort of non-technical students."
       ]
     },
     {
@@ -71,30 +120,71 @@
       ]
     },
     {
-      "company": "Hawaiian Airlines",
-      "position": "Flight Attendant",
-      "website": "https://www.hawaiianairlines.com/",
-      "startDate": "2022-07-23",
-      "endDate": "2023-10-22",
-      "summary": "Assisting guests travel to their destination with aloha.",
+      "company": "Audiophile Entertainment",
+      "position": "Co-Founder",
+      "startDate": "2015-07-01",
+      "endDate": "2020-01-31",
+      "summary": "Event production company.",
       "highlights": [
-        "Extensive training on emergency equipment and safety procedures for the Boeing 737, Airbus A321 Neo and A330",
-        "Service procedures meeting the high standards of Hawaii's preferred airline"
+        "Co-founded and operated the company, owning planning, operations, promotion, and vendor management for large-scale events over five years."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Forpono",
+      "url": "https://forpono.com",
+      "description": "Multi-tenant SaaS platform (DDO Tech Solutions)",
+      "highlights": [
+        "Architected and shipped a multi-tenant platform serving customer sites across *.forpono.com plus a separate admin application, built as a Turborepo/pnpm monorepo on Next.js 15 App Router, Supabase/Postgres, and Vercel.",
+        "Implemented host-based tenant resolution in middleware, per-tenant sitemap generation, and a single-source indexing predicate governing both robots metadata and sitemap inclusion.",
+        "Built a manifest-driven smoke suite run on every merge that asserts SEO and indexing invariants in both directions and fails on unreachable targets rather than skipping them."
       ]
     },
-      {
-      "company": "University of Hawaii Kapi'olani Community College",
-      "position": "Student Congress Student Employee",
-      "website": "https://kapionews.com/index.php/student-congress/",
-      "startDate": "2021-02-01",
-      "endDate": "2023-5-20",
-      "summary": "Vice President, Public Relations Manager, and Treasurer.",
+    {
+      "name": "workflow-intel",
+      "description": "AI workflow intelligence system",
       "highlights": [
-        "Planning, preparing, and execution of yearly initiatives to support the student body",
+        "Built a system that continuously gathers and analyzes how AI tools and workflows are being adopted, turning scattered public signal into a searchable, current picture of the landscape.",
+        "Delivered it as a production dashboard that answers questions by meaning rather than keyword, so the useful result surfaces even when the wording differs."
+      ]
+    },
+    {
+      "name": "PACE Bot",
+      "description": "Realtime voice and text AI avatar for the Pacific Asian Center for Entrepreneurship",
+      "highlights": [
+        "Built a conversational agent with realtime voice via LiveKit, deployed as separate front-end and agent services on Railway."
+      ]
+    },
+    {
+      "name": "flyer-bot",
+      "description": "Marketing automation pipeline",
+      "highlights": [
+        "Built an automated pipeline that generates and distributes marketing collateral, integrating LLM generation with scheduled and event-driven triggers."
+      ]
+    },
+    {
+      "name": "EL3vate",
+      "url": "https://el3vate.forpono.com",
+      "description": "Resource platform for a University of Hawaii faculty development program",
+      "highlights": [
+        "Built and shipped a digital home giving participating faculty a single place to find the materials relevant to their own discipline.",
+        "Designed it so program staff can update content live during a session and publish in one step, with deploy gates that prove themselves against deliberately broken fixtures on every run and refuse to publish past a failure."
       ]
     }
   ],
   "volunteer": [
+    {
+      "organization": "University of Hawaii at Manoa",
+      "position": "Chair, Student Media Board",
+      "startDate": "2024-11-01",
+      "endDate": "Present",
+      "summary": "Governance and strategic oversight for multiple student-run media organizations.",
+      "highlights": [
+        "Lead budgets, policy, and long-range planning across the board's organizations.",
+        "Drove a $2 million proposal to completion, closing a process that had been open for 15 years."
+      ]
+    },
     {
       "organization": "Kapi'olani Community College",
       "website": "https://kapiolanicc.smugmug.com/Commencement/2023-Fall-Commencement/Photos-by-Tim-Lum",
@@ -118,11 +208,6 @@
         "Catch moments through photographs",
         "Assist staff with facilitating students"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request"
     }
   ]
 }
