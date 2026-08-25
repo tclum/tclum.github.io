@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": "v2026-08-01a",
-    "lastModified": "2026-08-01"
+    "version": "v2026-08-25a",
+    "lastModified": "2026-08-25"
   },
   "basics": {
     "name": "Timothy Lum",
@@ -53,8 +53,15 @@
       "institution": "University of Hawaii at Manoa, Honolulu, HI",
       "area": "Computer Science, Minor in Business (expected Aug 2026)",
       "studyType": "B.S.",
-      "startDate": "2020-09-01",
+      "startDate": "2024-01-01",
       "endDate": "2026-08-31"
+    },
+    {
+      "institution": "Kapi'olani Community College, Honolulu, HI",
+      "area": "Information and Communication Technology",
+      "studyType": "A.S.",
+      "startDate": "2020-08-01",
+      "endDate": "2023-12-31"
     }
   ],
   "work": [
@@ -83,28 +90,29 @@
       ]
     },
     {
+      "company": "Pacific Asian Center for Entrepreneurship, UH Manoa",
+      "position": "Director, Maker Space & AI Innovation Program",
+      "website": "https://pace.shidler.hawaii.edu",
+      "startDate": "2024-07-01",
+      "endDate": "2026-08-31",
+      "summary": "Ran daily operations of a university prototyping facility supporting student and faculty ventures.",
+      "highlights": [
+        "Designed and taught an AI engineering curriculum for a cohort of non-technical students.",
+        "Trained and supported users across 3D printing, laser cutting, embroidery, sublimation, and heat press, and advised student entrepreneurs on technical feasibility and product development.",
+        "Served as Associate, Maker Program from Jul 2024 before taking the director role in Apr 2025."
+      ]
+    },
+    {
       "company": "Bayze / AinaQuest (Leap Start Program)",
       "position": "Software and Product Development",
       "website": "https://ainaquest.com",
       "startDate": "2024-06-01",
-      "endDate": "Present",
+      "endDate": "2026-08-31",
       "summary": "Mobile and web development for consumer-facing products.",
       "highlights": [
-        "Develop mobile and web application features in modern JavaScript frameworks for consumer-facing products.",
-        "Integrate third-party and internal APIs, and support launch planning, technical documentation, and roadmap execution.",
-        "Manage digitization of a physical card game through manufacturing and playtesting."
-      ]
-    },
-    {
-      "company": "Pacific Asian Center for Entrepreneurship, UH Manoa",
-      "position": "Maker Space & AI Innovation Director",
-      "website": "https://pace.shidler.hawaii.edu",
-      "startDate": "2024-06-01",
-      "endDate": "Present",
-      "summary": "Run daily operations of a university prototyping facility supporting student and faculty ventures.",
-      "highlights": [
-        "Train and support users across 3D printing, laser cutting, embroidery, sublimation, and heat press, and advise student entrepreneurs on technical feasibility and product development.",
-        "Designed and teach an AI engineering curriculum for a cohort of non-technical students."
+        "Developed mobile and web application features on the MERN stack (MongoDB, Express, React, Node.js) for consumer-facing products.",
+        "Integrated third-party and internal APIs, and supported launch planning, technical documentation, and roadmap execution.",
+        "Managed digitization of a physical card game through manufacturing and playtesting."
       ]
     },
     {
@@ -151,7 +159,7 @@
     },
     {
       "name": "PACE Bot",
-      "description": "Realtime voice and text AI avatar for the Pacific Asian Center for Entrepreneurship",
+      "description": "Realtime voice and text AI avatar for a university entrepreneurship center",
       "highlights": [
         "Built a conversational agent with realtime voice via LiveKit, deployed as separate front-end and agent services on Railway."
       ]
@@ -178,10 +186,10 @@
       "organization": "University of Hawaii at Manoa",
       "position": "Chair, Student Media Board",
       "startDate": "2024-11-01",
-      "endDate": "Present",
-      "summary": "Governance and strategic oversight for multiple student-run media organizations.",
+      "endDate": "2026-08-31",
+      "summary": "Governance and strategic oversight for student-run media organizations including Ka Leo, Hawaii Review, KTUH, Manoa Now, and UH Productions.",
       "highlights": [
-        "Lead budgets, policy, and long-range planning across the board's organizations.",
+        "Led budgets, policy, and long-range planning across the board's organizations.",
         "Drove a $2 million proposal to completion, closing a process that had been open for 15 years."
       ]
     },
@@ -191,18 +199,6 @@
       "position": "Photographer",
       "startDate": "2023-12-20",
       "endDate": "2023-12-20",
-      "summary": "Volunteer photographer",
-      "highlights": [
-        "Catch moments through photographs",
-        "Assist staff with facilitating students"
-      ]
-    },
-    {
-      "organization": "Kapi'olani Community College",
-      "website": "https://kapiolanicc.smugmug.com/Commencement/Commencement2022/2022-Photos-by-Timothy-Lum",
-      "position": "Photographer",
-      "startDate": "2022",
-      "endDate": "2022",
       "summary": "Volunteer photographer",
       "highlights": [
         "Catch moments through photographs",
