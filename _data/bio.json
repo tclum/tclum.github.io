@@ -37,7 +37,7 @@
     },
     {
       "name": "AI & Automation",
-      "keywords": [ "LLM API integration (Claude, OpenAI)", "RAG (embeddings, pgvector, vector search)", "agent and tool-use pipelines", "LLM eval and smoke-test harnesses", "LiveKit realtime voice agents", "n8n", "webhook and event-driven pipelines" ]
+      "keywords": [ "LLM API integration (Claude, OpenAI)", "AI-assisted development workflow (Claude Code, Codex)", "RAG (embeddings, pgvector, vector search)", "agent and tool-use pipelines", "LLM eval and smoke-test harnesses", "LiveKit realtime voice agents", "n8n", "webhook and event-driven pipelines" ]
     },
     {
       "name": "Infrastructure",
