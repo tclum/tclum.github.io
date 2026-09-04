@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- rev v2026-09-03a : hosted variant of the self-contained portfolio; content synced to cleared materials 8/28 -->
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Timothy Lum — Portfolio</title>
+<link rel="canonical" href="https://tclum.github.io/portfolio.html" />
+<meta name="description" content="Timothy Lum: AI engineer and solo founder in Honolulu. Production systems with gates that prove themselves: Forpono, a pricing intelligence platform, EL3vate, and more." />
+<meta property="og:title" content="Timothy Lum — Portfolio" />
+<meta property="og:description" content="Systems that keep working while nobody is watching. AI engineering, multi-tenant platforms, and merge gates with receipts." />
+<meta property="og:url" content="https://tclum.github.io/portfolio.html" />
+<meta property="og:type" content="website" />
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Hanken+Grotesk:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ink:#100d0b; --ink-2:#191310; --ink-3:#211a15;
+    --cream:#f4ede3; --muted:#b3a392; --faint:#7d7064;
+    --coral:#ff6a3d; --amber:#ffb24a; --teal:#54d2c4;
+    --line:rgba(244,237,227,.10); --line-2:rgba(244,237,227,.06);
+    --display:"Fraunces",Georgia,serif;
+    --body:"Hanken Grotesk",system-ui,sans-serif;
+    --mono:"JetBrains Mono",ui-monospace,monospace;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{scroll-behavior:smooth}
+  body{background:var(--ink);color:var(--cream);font-family:var(--body);line-height:1.55;-webkit-font-smoothing:antialiased;position:relative;overflow-x:hidden}
+  body::before{content:"";position:fixed;inset:0;z-index:0;pointer-events:none;
+    background:radial-gradient(120% 80% at 78% -10%, rgba(255,106,61,.20), transparent 55%),
+      radial-gradient(90% 70% at 8% 4%, rgba(84,210,196,.10), transparent 50%),
+      radial-gradient(140% 120% at 50% 120%, rgba(255,178,74,.06), transparent 60%);}
+  body::after{content:"";position:fixed;inset:0;z-index:1;pointer-events:none;opacity:.5;
+    background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='.035'/%3E%3C/svg%3E");}
+  .wrap{position:relative;z-index:2;max-width:1120px;margin:0 auto;padding:clamp(28px,6vw,72px) clamp(20px,5vw,56px) 80px}
+
+  header{padding-bottom:clamp(36px,5vw,60px);border-bottom:1px solid var(--line);margin-bottom:clamp(40px,5vw,64px)}
+  .kicker{font-family:var(--mono);font-size:12px;letter-spacing:.32em;text-transform:uppercase;color:var(--coral);display:flex;gap:14px;align-items:center;margin-bottom:26px}
+  .kicker::after{content:"";height:1px;flex:1;background:var(--line)}
+  h1{font-family:var(--display);font-weight:600;font-size:clamp(40px,7.5vw,84px);line-height:.98;letter-spacing:-.02em;margin-bottom:24px;font-optical-sizing:auto}
+  h1 em{font-style:italic;color:var(--amber)}
+  .lede{font-size:clamp(17px,2.2vw,21px);color:var(--muted);max-width:62ch;font-weight:400}
+  .lede b{color:var(--cream);font-weight:600}
+  .meta-row{display:flex;flex-wrap:wrap;gap:10px 28px;margin-top:30px;font-family:var(--mono);font-size:12.5px;color:var(--faint);letter-spacing:.04em}
+  .meta-row span{display:flex;align-items:center;gap:8px}
+  .dot{width:6px;height:6px;border-radius:50%;background:var(--teal)}
+  .cta{display:flex;flex-wrap:wrap;gap:14px;align-items:center;margin-top:34px}
+  .btn{font-family:var(--mono);font-size:13px;letter-spacing:.04em;background:var(--coral);color:#1a0d07;border:none;cursor:pointer;padding:13px 22px;border-radius:2px;font-weight:500;text-decoration:none;display:inline-block;transition:transform .18s ease, box-shadow .18s ease;box-shadow:0 0 0 0 rgba(255,106,61,.5)}
+  .btn:hover{transform:translateY(-2px);box-shadow:0 10px 30px -8px rgba(255,106,61,.55)}
+  .btn.ghost{background:transparent;color:var(--coral);border:1px solid rgba(255,106,61,.5)}
+  .cta small{font-family:var(--mono);font-size:11.5px;color:var(--faint);letter-spacing:.02em}
+
+  section{margin-bottom:clamp(44px,5vw,66px)}
+  .sec-head{display:flex;align-items:baseline;gap:16px;margin-bottom:24px}
+  .sec-label{font-family:var(--mono);font-size:12px;letter-spacing:.26em;text-transform:uppercase;color:var(--cream)}
+  .sec-sub{font-family:var(--mono);font-size:11.5px;color:var(--faint);letter-spacing:.06em}
+  .sec-head .rule{flex:1;height:1px;background:var(--line-2)}
+  .count{font-family:var(--mono);font-size:11.5px;color:var(--faint)}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:16px}
+
+  .card{position:relative;background:var(--ink-2);border:1px solid var(--line);border-radius:4px;padding:24px 24px 22px;display:flex;flex-direction:column;min-height:172px;overflow:hidden;text-decoration:none;color:inherit;transition:border-color .2s ease, transform .2s ease, background .2s ease;opacity:0;transform:translateY(14px);animation:rise .6s cubic-bezier(.2,.7,.2,1) forwards;animation-delay:var(--d,0s)}
+  @keyframes rise{to{opacity:1;transform:none}}
+  @media (prefers-reduced-motion: reduce){.card{animation:none;opacity:1;transform:none}.btn:hover{transform:none}}
+  .card::before{content:"";position:absolute;left:0;top:0;height:100%;width:3px;background:var(--accent,var(--faint));opacity:.85}
+  .card .tag{font-family:var(--mono);font-size:10.5px;letter-spacing:.2em;text-transform:uppercase;color:var(--accent,var(--faint));margin-bottom:14px}
+  .card h3{font-family:var(--display);font-weight:600;font-size:24px;letter-spacing:-.01em;margin-bottom:8px;line-height:1.06}
+  .card p{font-size:14.5px;color:var(--muted);flex:1;margin-bottom:16px}
+  .stack{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:14px}
+  .stack span{font-family:var(--mono);font-size:10.5px;color:var(--faint);border:1px solid var(--line);padding:3px 8px;border-radius:99px;letter-spacing:.02em}
+  .foot{display:flex;align-items:center;gap:10px;font-family:var(--mono);font-size:12px;letter-spacing:.03em}
+  .receipt{font-family:var(--mono);font-size:11.5px;color:var(--teal);background:rgba(84,210,196,.07);border:1px solid rgba(84,210,196,.2);padding:6px 10px;border-radius:3px;width:fit-content}
+
+  a.card.live{cursor:pointer;--accent:var(--coral)}
+  a.card.live:hover,a.card.live:focus-visible{border-color:rgba(255,106,61,.55);transform:translateY(-3px);background:#1d1510;outline:none}
+  .open{color:var(--coral);font-weight:500;display:inline-flex;align-items:center;gap:6px}
+  .open .arr{transition:transform .2s ease}
+  a.card.live:hover .open .arr{transform:translate(2px,-2px)}
+  .card.internal{--accent:var(--coral)}
+  .card.sys{--accent:var(--teal)}
+  .card.exp{--accent:var(--amber)}
+  .card.sys .foot,.card.exp .foot{color:var(--faint)}
+
+  footer{margin-top:40px;padding-top:26px;border-top:1px solid var(--line);font-family:var(--mono);font-size:11.5px;color:var(--faint);letter-spacing:.04em;display:flex;flex-wrap:wrap;justify-content:space-between;gap:12px}
+  footer a{color:var(--faint)}
+  @media (max-width:560px){.grid{grid-template-columns:1fr}h1{font-size:clamp(36px,12vw,52px)}}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <div class="kicker">Timothy Lum · Honolulu · Portfolio 2026</div>
+    <h1>Systems that keep working<br><em>while nobody is watching.</em></h1>
+    <p class="lede">I'm <b>Timothy</b>, an AI engineer and solo founder. I design the architecture, orchestrate <b>AI agents as the implementation workforce</b>, and hold every merge to gates that can prove themselves red. Below is the current working set; live links open in a new tab.</p>
+    <div class="meta-row">
+      <span><i class="dot"></i> Honolulu, HI · open to remote or relocation</span>
+      <span><i class="dot"></i> TypeScript · Python · Postgres · Claude API</span>
+      <span><i class="dot"></i> github.com/tclum</span>
+    </div>
+    <div class="cta">
+      <a class="btn" href="https://forpono.com" target="_blank" rel="noopener">Open Forpono ↗</a>
+      <a class="btn ghost" href="https://el3vate.forpono.com" target="_blank" rel="noopener">Open EL3vate ↗</a>
+      <a class="btn ghost" href="https://tclum.github.io/resume.html" target="_blank" rel="noopener">Resume ↗</a>
+      <small>everything labeled live was verified live before this file shipped</small>
+    </div>
+  </header>
+
+  <section>
+    <div class="sec-head">
+      <span class="sec-label">In production</span>
+      <span class="sec-sub">real users, real gates</span>
+      <span class="rule"></span>
+      <span class="count">03</span>
+    </div>
+    <div class="grid">
+
+      <div class="card internal" style="--d:.05s">
+        <div class="tag">Production · Internal, under contract</div>
+        <h3>Pricing Intelligence Platform</h3>
+        <p>Deterministic and LLM-enhanced pricing analysis for Hawaii's largest HR &amp; PEO provider: consolidates a Snowflake warehouse, carrier files, and financial workbooks into one source-attributed picture across a client book of thousands of businesses. Cut per-client research from 4-8 hours to minutes.</p>
+        <div class="stack"><span>Next.js 15</span><span>TypeScript</span><span>Postgres</span><span>Snowflake</span><span>Claude API</span></div>
+        <div class="foot"><span class="receipt">every value carries its provenance · client-level grain enforced at the persistence layer</span></div>
+      </div>
+
+      <a class="card live" href="https://forpono.com" target="_blank" rel="noopener" style="--d:.11s">
+        <div class="tag">Live · Production</div>
+        <h3>Forpono</h3>
+        <p>Multi-tenant platform serving Hawaii small-business sites across *.forpono.com from a single codebase: host-based tenant resolution in middleware, per-tenant sitemaps, and one source of truth for every indexing decision.</p>
+        <div class="stack"><span>Next.js 15</span><span>Supabase/Postgres</span><span>Turborepo</span><span>Vercel</span></div>
+        <div class="foot"><span class="receipt">every merge gated by smoke v1.0.0 · selftest RESULT: pass</span><span class="open"><span class="arr">↗</span></span></div>
+      </a>
+
+      <a class="card live" href="https://el3vate.forpono.com" target="_blank" rel="noopener" style="--d:.17s">
+        <div class="tag">Live · Production</div>
+        <h3>EL3vate</h3>
+        <p>Resource platform for a University of Hawaii faculty development program. Program staff publish live during sessions in one step, behind deploy gates that prove themselves against deliberately broken fixtures on every run.</p>
+        <div class="stack"><span>Node</span><span>Static generation</span><span>Vercel</span></div>
+        <div class="foot"><span class="receipt">ship gate: validate --selftest · RESULT: pass</span><span class="open"><span class="arr">↗</span></span></div>
+      </a>
+
+    </div>
+  </section>
+
+  <section>
+    <div class="sec-head">
+      <span class="sec-label">Systems &amp; agents</span>
+      <span class="sec-sub">deployed · walk-through on request</span>
+      <span class="rule"></span>
+      <span class="count">03</span>
+    </div>
+    <div class="grid">
+
+      <div class="card sys" style="--d:.05s">
+        <div class="tag">Production · Private</div>
+        <h3>workflow-intel</h3>
+        <p>Continuously gathers and analyzes how AI tools and workflows are actually being adopted, delivered as a production dashboard that answers questions by meaning rather than keyword.</p>
+        <div class="stack"><span>TypeScript</span><span>pgvector</span><span>Drizzle</span></div>
+        <div class="foot">dashboard behind auth · demo on request</div>
+      </div>
+
+      <div class="card sys" style="--d:.11s">
+        <div class="tag">Deployed · University</div>
+        <h3>PACE Bot</h3>
+        <p>Realtime voice and text AI avatar for UH Mānoa's entrepreneurship center, built as separate front-end and agent services with realtime voice over LiveKit.</p>
+        <div class="stack"><span>LiveKit</span><span>Fastify</span><span>pgvector</span><span>React</span></div>
+        <div class="foot">realtime voice agent · demo on request</div>
+      </div>
+
+      <div class="card sys" style="--d:.17s">
+        <div class="tag">Pipeline · Automation</div>
+        <h3>flyer-bot</h3>
+        <p>Marketing pipeline integrating LLM generation with scheduled and event-driven triggers, routed through an approval loop before anything publishes.</p>
+        <div class="stack"><span>Node/TS</span><span>Anthropic API</span></div>
+        <div class="foot">walk-through on request</div>
+      </div>
+
+    </div>
+  </section>
+
+  <section>
+    <div class="sec-head">
+      <span class="sec-label">Experiments</span>
+      <span class="sec-sub">built to learn</span>
+      <span class="rule"></span>
+      <span class="count">02</span>
+    </div>
+    <div class="grid">
+
+      <div class="card exp" style="--d:.05s">
+        <div class="tag">Desktop app</div>
+        <h3>desktop-pet</h3>
+        <p>A desktop task app with a companion pet that grows as you complete work: built to keep you company, not to nag.</p>
+        <div class="stack"><span>Tauri 2</span><span>Rust</span><span>React</span><span>SQLite</span></div>
+        <div class="foot">demo on request</div>
+      </div>
+
+      <div class="card exp" style="--d:.11s">
+        <div class="tag">Game · Shipped physical + digital</div>
+        <h3>AinaQuest</h3>
+        <p>A card game digitized from a physical product through manufacturing and playtesting, with mechanics and content designed alongside AI agents.</p>
+        <div class="stack"><span>Unity 6</span><span>C#</span><span>MERN</span></div>
+        <div class="foot">walk-through in editor</div>
+      </div>
+
+    </div>
+  </section>
+
+  <footer>
+    <span>Timothy Lum · <a href="mailto:timothyclum@gmail.com">timothyclum@gmail.com</a> · 808-386-2734</span>
+    <span>Updated August 2026</span>
+    <span><a href="https://tclum.github.io" target="_blank" rel="noopener">tclum.github.io</a> · <a href="https://github.com/tclum" target="_blank" rel="noopener">github.com/tclum</a> · <a href="https://www.linkedin.com/in/timlumtimlum" target="_blank" rel="noopener">linkedin.com/in/timlumtimlum</a></span>
+  </footer>
+
+</div>
+</body>
+</html>
